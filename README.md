@@ -3,12 +3,7 @@
 ## Steps to run locally:
 1. clone the repo.
 2. go to the cloned directory.
-3. open terminal
-4. virtualenv venv
-5. source venv/bin/activate
-6. pip3 install -r requirements.txt
-7. python3 manage.py runserver
-
+3. docker-compose up
 
 
 curl to hit
